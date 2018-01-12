@@ -22,5 +22,5 @@ maintance in the furture design relation
 
 [design object]
 
-def, pattern, intentention/purpose 分析
+def, design pattern, design intentention/purpose  分析
 
