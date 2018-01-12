@@ -1,5 +1,5 @@
 # Creator Pattern
-###Implementing a Creator/Builder using JavaScript
+### Implementing a Creator/Builder using JavaScript
 
 Creator/builder pattern: the template of creting an object; seperate the representation & behaviour of  an object
 
@@ -15,7 +15,7 @@ From the implementor's perspective: separation of representation & behaviour, ab
 
 From the client's perspective: no need to worry about the implement details, easily to use
 
-###Design Abstract
+### Design Abstract
 
 cooperative building a set of objects design relation
 maintance in the furture design relation 
